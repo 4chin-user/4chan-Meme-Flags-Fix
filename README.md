@@ -1,4 +1,6 @@
 <h3>Fix Meme Flags</h3>
+This userscript changes meme flags on /pol/ to their most likely country of origin</br>
+</br>
 <ul>
   <li>Install Tampermonkey browser extension: <a href="https://www.tampermonkey.net/">https://www.tampermonkey.net/</a></li>
   <li>Firefox: just works</li>
